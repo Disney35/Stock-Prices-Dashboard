@@ -16,6 +16,8 @@ A comprehensive dashboard to analyze, predict, and visualize stock prices using 
 🛠️ Built with Python, Streamlit/Plotly, and TensorFlow
 
 
+
+
 🛠 Tools & Technologies Used
 
 Python 3.11 – Core programming language
@@ -35,6 +37,7 @@ scikit-learn – Data preprocessing & scaling
 Jupyter Notebook – Experimentation & prototyping
 
 
+
 📊 Technical Indicators
 
 SMA – Simple Moving Average
@@ -52,6 +55,7 @@ MACD – Moving Average Convergence Divergence
 MFI – Money Flow Index
 
 
+
 📈 LSTM Stock Prediction
 
 Predicts future closing prices based on historical data
@@ -61,6 +65,7 @@ Compares predicted vs actual prices for accuracy
 Helps in spotting trends and making data-driven decisions
 
 
+
 📊 Technical Analysis
 
 Calculates and plots all major indicators
@@ -68,6 +73,7 @@ Calculates and plots all major indicators
 Visualizes buy/sell signals
 
 Supports multiple indicators on one chart
+
 
 
 🎨 Dashboard
