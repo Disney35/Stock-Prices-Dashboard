@@ -76,7 +76,7 @@ Visualizes buy/sell signals
 
 Supports multiple indicators on one chart
 
-
+---
 
 🎨 Dashboard
 
